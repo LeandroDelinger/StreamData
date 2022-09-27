@@ -1,14 +1,12 @@
 {
-  "name": "stream.data",
-  "displayName": "stream.data",
+  "name": "streamData",
+  "displayName": "streamData",
   "expo": {
-    "name": "stream.data",
+    "name": "streamData",
     "scheme": "stream.data",
     "slug": "streamData",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "androidStatusBar": {
       "barStyle": "light-content",
       "translucent": true,
