@@ -3,7 +3,7 @@
 # <h1 align="center">StreamData</h1>
 
 StreamData é uma aplicação Mobile que foi propósta como desafio da trilha de React Native na Rocketseat, com o objetivo de colocar em prática o que aprendemos sobre login social. 
-Nesta aplicação fizemos login social com a twitch, e mostramos ao usuário uma home baseada nos seus gostos pessoais. Tudo isso com uma interface bem bacana 🤩🤩🤩
+Nesta aplicação fizemos login utilizando a twitch, e logo após, mostramos ao usuário uma home baseada nos seus gostos pessoais. Tudo isso com uma interface bem bacana 🤩🤩🤩
 
 ## 👨‍💻 Quais foram as Técnologias utilizadas 👨‍💻
 
